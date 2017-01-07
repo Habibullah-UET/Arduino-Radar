@@ -4,10 +4,10 @@ A sample Arduino Radar Project
 # Parts Required
 <ul>
 <li> 1 x Ardunio (UNO or Mega) </li>
-<li> 1 x HR-SR04 <li/>
-<li> 1 x Servo Motor ( Tower Pro Microservo 9g ) SG90 <li/>
-<li> 1 x Buzzer <li/>
-<li> 1 x LED RGB <li/>
+<li> 1 x HR-SR04 </li>
+<li> 1 x Servo Motor ( Tower Pro Microservo 9g ) SG90 </li>
+<li> 1 x Buzzer </li>
+<li> 1 x LED RGB </li>
 <li> 1 x LCD </li>
 </ul>
 
